@@ -1,3 +1,16 @@
+###########################################
+
+Author:
+
+Andrew Wong
+
+Email: andrewwongls@outlook.com
+
+Medium Blog: https://medium.com/human-science-ai
+
+###########################################
+
+
 # The State of Northwind Trader Business - The Business Decision-Making Through Statistical Hypothesis Testing
 
 ## Introduction
